@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=43aeb8&size=40&lines=Hey!+Im+Palomita2222">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=Hey!+Im+Palomita222)](https://git.io/typing-svg)
 
 ---
 
