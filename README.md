@@ -19,4 +19,4 @@
 
 <p align="left">
   ⭐ Hacking: <strong> Im a network and website hacker. I can do undetectable MITM attacks, sniffing and data collecting. On the other hand, I can also do XSS injection for websites, and DOS attacks to either websites and networks.</strong></p>
-  <p>⭐ Coding: <strong> I can program in python at a high level and code custom and useful programs for individuals, and companies. (Im open for offers, contact info in desc).</p>
+  <p>⭐ Coding: <strong> I can program in python at a high level and code custom and useful programs for individuals, and companies. (Im open for offers, contact info in bio).</p>
