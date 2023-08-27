@@ -2,7 +2,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Verdana&duration=4000&pause=100&color=B53FF7&background=FFFFFF00&vCenter=true&width=435&lines=Hey!+I'm+Robert;Welcome+to+my+github+profile!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Verdana&duration=2000&pause=100&color=B53FF7&background=FFFFFF00&vCenter=true&width=435&lines=Hey!+I'm+Robert;Welcome+to+my+github+profile!">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
