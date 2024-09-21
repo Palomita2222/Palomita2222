@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Saula Mota</h1>
-<h3 align="center">I'm 16, and this is my coding portfolio!</h3>
+<h3 align="center">I'm 17, and this is my coding portfolio!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palomita2222&label=Profile%20views&color=0e75b6&style=flat" alt="palomita2222" /> </p>
 
