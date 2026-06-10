@@ -1,7 +1,7 @@
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0a2540&height=200&section=header&text=Robert%20Saula%20Mota&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=CS%20%26%20AI%20%C2%B7%20Robotics%20%C2%B7%20Defense%20Tech&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header banner" />
+
 
 <!-- ====== TYPING SUBTITLE ====== -->
 <a href="https://git.io/typing-svg">
