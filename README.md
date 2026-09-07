@@ -46,7 +46,7 @@ class Robert:
 
 **Languages & Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,c&theme=dark" alt="languages and ml" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,c&theme=dark" alt="languages and ml" />
 
 **Robotics & Computer Vision**
 
