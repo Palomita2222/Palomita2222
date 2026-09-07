@@ -50,7 +50,7 @@ class Robert:
 
 **Robotics & Computer Vision**
 
-<img src="https://skillicons.dev/icons?i=opencv,arduino,unity&theme=dark" alt="robotics and cv" />
+<img src="https://skillicons.dev/icons?i=opencv,arduino,unity,ros&theme=dark" alt="robotics and cv" />
 
 **Tools & Workflow**
 
