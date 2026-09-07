@@ -25,16 +25,16 @@ class Robert:
         self.age = 18
         self.degree = "Computer Science & AI @ University of Nottingham"
         self.focus = ["robotics × AI", "computer vision", "embedded systems"]
-        self.goal = "Engineering for the European defense & security sector"
+        self.goal = "Engineering for the European robotics and defense sector"
         self.currently_learning = "TensorFlow"
         self.currently_building = "an AI-driven autonomous drone 🛩️"
 ```
 
 - 🎓 Studying **Computer Science & Artificial Intelligence** at the **University of Nottingham**
 - 🛰️ Fascinated by where **robotics meets AI** — perception, autonomy, and control
-- 🛡️ Working toward a career in the **European defense & security sector**
+- 🛡️ Working toward a career in the **European robotics and security sector**
 - 🔭 Currently building my [**AI-Driven Drone**](https://github.com/Palomita2222/AI_Driven_Drone)
-- 🌱 Deepening my skills in **TensorFlow** and real-time computer vision
+- 🌱 Deepening my skills in **TensorFlow**, **PyTorch** && **ROS2**
 - 📫 Reach me at **robertsaulamota@gmail.com**
 
 <br>
@@ -46,7 +46,7 @@ class Robert:
 
 **Languages & Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,cpp&theme=dark" alt="languages and ml" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp&theme=dark" alt="languages and ml" />
 
 **Robotics & Computer Vision**
 
