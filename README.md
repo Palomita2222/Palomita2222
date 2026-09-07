@@ -1,8 +1,6 @@
 <!-- ====== HEADER BANNER ====== -->
 <div align="center">
 
-
-
 <!-- ====== TYPING SUBTITLE ====== -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=CS+%26+AI+%40+University+of+Nottingham;Robotics+%C3%97+AI+enthusiast;Building+an+AI-driven+drone;Future+European+defense-tech+engineer" alt="Typing SVG" />
@@ -62,47 +60,22 @@ class Robert:
 
 <br>
 
-<!-- ====== GITHUB STATS ====== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palomita2222&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=palomita2222&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=palomita2222&theme=tokyonight&hide_border=true" alt="github streak" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=palomita2222&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
-<br>
-
-<!-- ====== CONTRIBUTION GRAPH ====== -->
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palomita2222&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=0e75b6&line=0e75b6&point=ffffff" alt="activity graph" width="100%" />
-
-</div>
-
-<br>
-
 <!-- ====== FEATURED PROJECT ====== -->
 ## 🚀 Featured Project
 
 <div align="center">
-  <a href="https://github.com/Palomita2222/AI_Driven_Drone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=palomita2222&repo=AI_Driven_Drone&theme=tokyonight&hide_border=true" alt="AI Driven Drone" />
-  </a>
-</div>
 
-> An autonomous drone project exploring the intersection of **AI and robotics** — combining computer vision, real-time control, and machine learning for perception and navigation.
+### 🛩️ [AI_Driven_Drone](https://github.com/Palomita2222/AI_Driven_Drone)
+
+An autonomous drone project exploring the intersection of **AI and robotics** — combining computer vision, real-time control, and machine learning for perception and navigation.
+
+<p>
+  <a href="https://github.com/Palomita2222/AI_Driven_Drone"><img src="https://img.shields.io/badge/View%20Repo-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="view repo" /></a>
+  <a href="https://github.com/Palomita2222/AI_Driven_Drone/stargazers"><img src="https://img.shields.io/github/stars/Palomita2222/AI_Driven_Drone?style=for-the-badge&color=0e75b6&labelColor=1a1b27" alt="stars" /></a>
+  <a href="https://github.com/Palomita2222/AI_Driven_Drone/network/members"><img src="https://img.shields.io/github/forks/Palomita2222/AI_Driven_Drone?style=for-the-badge&color=0e75b6&labelColor=1a1b27" alt="forks" /></a>
+</p>
+
+</div>
 
 <br>
 
